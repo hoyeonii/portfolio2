@@ -1107,12 +1107,12 @@ body.active .sec1 .text .skew {
   justify-content: center;
   align-items: center;
 }
-.sec3 > div:last-child {
+/* .sec3 > div:last-child {
   display: none;
 }
 .sec3 > div:nth-last-child(2) {
   display: none;
-}
+} */
 .sec3 .cont_right .s3_img {
   position: absolute;
   right: 0;
